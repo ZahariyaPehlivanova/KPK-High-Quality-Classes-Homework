@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Users\User\Desktop\КПК\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\User\Desktop\КПК\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Users\User\Desktop\КПК\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\User\Desktop\КПК\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\User\Desktop\КПК\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\КПК\Homeworks\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\SoftUni\VisualStudio\КПК\Homeworks\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
